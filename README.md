@@ -1,1 +1,1 @@
-# forex-clone
+# forex-cloned
