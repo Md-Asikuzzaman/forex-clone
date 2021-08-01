@@ -1,0 +1,92 @@
+@media screen and (max-width: 768px) {
+    body {
+        font-size: 17px;
+    }
+    .fa-bars {
+        margin-right: 30px;
+    }
+
+    .span_1_of_2 {
+        width: 100%;
+        text-align: center;
+    }
+
+    .slider__desc {
+        margin-top: 50px;
+        margin-left: 0px;
+    }
+
+    .phone__body {
+        margin-left: 0;
+        margin-top: 100px;
+    }
+
+    .span_1_of_3 {
+        width: 96%;
+    }
+
+    .span_1_of_3:first-child {
+        margin-left: 2%;
+    }
+
+    .services__section {
+        margin-top: 30px;
+    }
+
+    .feture__section img {
+        width: 300px;
+    }
+
+    .key__des {
+        max-width: 630px;
+    }
+
+    .latest__result table {
+        max-width: 96%;
+        margin-left: 2%;
+    }
+
+    .performance__section img {
+        width: 96%;
+    }
+
+    .span_1_of_4 {
+        width: 96%;
+    }
+
+    .span_1_of_4:first-child {
+        margin-left: 2%;
+    }
+
+    .tradding__section img {
+        width: 90%;
+    }
+    .components__section .row{
+        width: 90%;
+    }
+
+    .top__bar {
+        width: 45px;
+        height: 45px;
+    }
+
+    .slider__desc h1 {
+        font-size: 44px;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    body {
+        font-size: 16px;
+    }
+    .span_1_of_3:nth-child(2), .span_1_of_3:nth-child(3) {
+        margin-left: 2%;
+    }
+    .span_1_of_4:nth-child(2), .span_1_of_4:nth-child(3), .span_1_of_4:nth-child(4) {
+        margin-left: 2%;
+    }
+
+    .slider__desc h1 {
+        font-size: 30px;
+    }
+}
